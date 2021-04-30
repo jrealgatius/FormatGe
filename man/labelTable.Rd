@@ -5,7 +5,7 @@
 \title{Exchange label for name of variable according external file
 Open a excel file and apply label to variables from table}
 \usage{
-labelTable(data, taulavariables, camp_descripcio, camp)
+labelTable(data, taulavariables, camp_descripcio, camp = "camp")
 }
 \arguments{
 \item{data}{data.frame}

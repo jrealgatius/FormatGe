@@ -19,7 +19,7 @@
 #' @export
 #' 
 
-labelTable<-function(data,taulavariables,camp_descripcio,camp) {
+labelTable<-function(data,taulavariables,camp_descripcio,camp="camp") {
 
   # data=T3.MI
   # taulavariables=conductor_variables
